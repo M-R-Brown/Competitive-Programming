@@ -1,5 +1,6 @@
 # Competitive Programming
-## List and solutions of selective competitive programming questions solved by me on Codechef and Hackerrank. Part of Challenge to solve 250 competitive programming questions.
+## List and solutions of selective competitive programming questions solved by me on Codechef and Hackerrank.
+### Part of Challenge to solve 250 competitive programming questions. ( 154 / 250 )
 
 Codechef Id: [https://www.codechef.com/users/dl2050](https://www.codechef.com/users/dl2050)
 
