@@ -1,5 +1,5 @@
 # Competitive Programming
-## List and solutions of selective competitive programming questions solved by me on Codechef and Hackerrank.  
+## List and solutions of selective competitive programming questions solved by me on Codechef and Hackerrank. Part of Challenge to solve 250 competitive programming questions.
 
 Codechef Id: [https://www.codechef.com/users/dl2050](https://www.codechef.com/users/dl2050)
 
@@ -69,6 +69,6 @@ Hackerrank Id: [https://www.hackerrank.com/harshchaudhary21](https://www.hackerr
 # **All Platforms**
 <br>
 
-| Platform | Codechef | Codeforces | Hackerrank |
-| --- | --- | --- | --- |
-| Problems Solved | 133 | 30 | 3 |
+| Platform | Codechef | Codeforces | Hackerrank | Total |
+| --- | --- | --- | --- | --- |
+| Problems Solved | 122 | 30 | 2 | 154
