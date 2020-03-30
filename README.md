@@ -1,4 +1,4 @@
-# Competitive-Programming
+# Competitive Programming
 
 ###### List and solutions of selective competitive programming questions solved by me on Codechef and Hackerrank.
 
