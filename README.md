@@ -1,10 +1,12 @@
 # Competitive Programming
 
-###### List and solutions of selective competitive programming questions solved by me on Codechef and Hackerrank.
+## List and solutions of selective competitive programming questions solved by me on Codechef and Hackerrank.
 
 Codechef Id: [https://www.codechef.com/users/dl2050](https://www.codechef.com/users/dl2050)
 
 Hackerrank Id: [https://www.hackerrank.com/harshchaudhary21](https://www.hackerrank.com/harshchaudhary21)
+
+
 
 # **Practice Questions**
 
