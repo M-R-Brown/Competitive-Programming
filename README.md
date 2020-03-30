@@ -64,11 +64,10 @@ Hackerrank Id: [https://www.hackerrank.com/harshchaudhary21](https://www.hackerr
 | [GCDCNT](http://www.codechef.com/problems/GCDCNT) | [Solution 1](https://www.codechef.com/viewsolution/17730351) | Number Theory, Binary Search, Data Structures, Sieve Of Eratosthenes | Hard |
 | [PSHTRG](http://www.codechef.com/problems/PSHTRG) | [Solution 1](https://www.codechef.com/viewsolution/17754519) | Sqrt Decomposition, Segment Tree | Hard |  
 
-<br><br><br><br>
-  
+<br><br><br>
 
-
-
+# **All Platforms**
+<br>
 
 | Platform | Codechef | Codeforces | Hackerrank |
 | --- | --- | --- | --- |
